@@ -3,15 +3,15 @@ layout: workshop      # DON'T CHANGE THIS.
 root: .               # DON'T CHANGE THIS EITHER.  (THANK YOU.)
 country: "au"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
-humandate: "December 7-10, 2021"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
-humantime: "9:00am to 1:00pm AEDT each day"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
-startdate: 2021-12-07      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
-enddate: 2021-12-10        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Masami Yamaguchi","Liz Stokes","Mark Crowe"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+humandate: "March 5-8, 2024"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humantime: "9:00am to 1:00pm AWST each day"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
+startdate: 2024-03-05      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
+enddate: 2024-03-08        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
+instructor: ["Ann Backhaus","Sara King","Mark Crowe"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: []     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 contact: ["training@qcif.edu.au"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 etherpad:             # optional: URL for the workshop Etherpad if there is one
-eventbrite: "171338517117"         # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
+eventbrite: ""         # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 locations:
   - venue: "Online"
     address: "https://carpentries.zoom.us/j/FIXME"
