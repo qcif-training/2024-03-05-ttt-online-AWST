@@ -15,6 +15,7 @@ enddate: 2024-03-08        # machine-readable end date for the workshop in YYYY-
 instructor: ["Ann Backhaus","Sara King","Mark Crowe"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 contact: ["training@qcif.edu.au"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 etherpad:             # optional: URL for the workshop Etherpad if there is one
+eventbrite:  "777489621387"
 ---
 
 <!-- See instructions in the comments below for how to edit specific sections of this workshop template. -->
@@ -262,10 +263,10 @@ adjust the times and titles, then delete the characters above and below that ser
       <tr> <td>09:00</td> <td>Welcome </td> </tr>
       <tr> <td>09:30</td> <td>Building Skill with Practice </td> </tr>
       <tr> <td>10:30</td> <td>Morning Break </td> </tr>
-      <tr> <td>10:45</td> <td>Expertise and Instruction </td> </tr>
-      <tr> <td>11:30</td> <td>Memory and Cognitive Load </td> </tr>
-      <tr> <td>12:15</td> <td>Building Skill with Feedback </td> </tr>
-      <tr> <td>12:35</td> <td>Finish </td> </tr>
+      <tr> <td>11:00</td> <td>Expertise and Instruction </td> </tr>
+      <tr> <td>11:45</td> <td>Memory and Cognitive Load </td> </tr>
+      <tr> <td>12:30</td> <td>Building Skill with Feedback </td> </tr>
+      <tr> <td>13:00</td> <td>Finish </td> </tr>
     </table>
   </div>
   <div class="col-md-6">
@@ -273,9 +274,9 @@ adjust the times and titles, then delete the characters above and below that ser
     <table class="table table-striped">
       <tr> <td>09:00</td> <td>Motivation and Demotivation </td> </tr>
       <tr> <td>10:00</td> <td>Equity, Inclusion, and Accessibility </td> </tr>
-      <tr> <td>10:40</td> <td>Morning Break </td> </tr>
-      <tr> <td>11:00</td> <td>Teaching Is a Skill </td> </tr>
-      <tr> <td>12:30</td> <td>Finish </td> </tr>
+      <tr> <td>10:45</td> <td>Morning Break </td> </tr>
+      <tr> <td>11:15</td> <td>Teaching Is a Skill </td> </tr>
+      <tr> <td>13:00</td> <td>Finish </td> </tr>
       <tr> <td>&nbsp;</td> <td>&nbsp;<br>&nbsp;<br>&nbsp;</td> </tr>
     </table>
   </div>
@@ -285,22 +286,22 @@ adjust the times and titles, then delete the characters above and below that ser
       <tr> <td>09:00</td> <td>Getting Started on Instructor Certification </td> </tr>
       <tr> <td>09:30</td> <td>The Carpentries: How We Operate </td> </tr>
       <tr> <td>10:15</td> <td>Morning Break </td> </tr>
-      <tr> <td>10:30</td> <td>Live Coding is a Skill </td> </tr>
-      <tr> <td>11:45</td> <td>Preparing to Teach </td> </tr>
-      <tr> <td>12:30</td> <td>Finish </td> </tr>
+      <tr> <td>10:45</td> <td>Live Coding is a Skill </td> </tr>
+      <tr> <td>12:15</td> <td>Preparing to Teach </td> </tr>
+      <tr> <td>13:00</td> <td>Finish </td> </tr>
     </table>
   </div>
   <div class="col-md-6">
     <h3>Day 4</h3>
     <table class="table table-striped">
       <tr> <td>09:00</td> <td>More Practice Live Coding </td> </tr>
-      <tr> <td>10:00</td> <td>Working With Your Team </td> </tr>
-      <tr> <td>10:30</td> <td>Morning Break </td> </tr>
-      <tr> <td>10:45</td> <td>Working With Your Team (cont.) </td> </tr>
-      <tr> <td>11:15</td> <td>Launches and Landings </td> </tr>
-      <tr> <td>12:00</td> <td>Putting It Together </td> </tr>
-      <tr> <td>12:15</td> <td>Wrapping Up </td> </tr>
-      <tr> <td>12:30</td> <td>Finish </td> </tr>
+      <tr> <td>10:15</td> <td>Working With Your Team </td> </tr>
+      <tr> <td>10:45</td> <td>Morning Break </td> </tr>
+      <tr> <td>11:15</td> <td>Working With Your Team (cont.) </td> </tr>
+      <tr> <td>11:45</td> <td>Launches and Landings </td> </tr>
+      <tr> <td>12:30</td> <td>Putting It Together </td> </tr>
+      <tr> <td>12:45</td> <td>Wrapping Up </td> </tr>
+      <tr> <td>13:00</td> <td>Finish </td> </tr>
     </table>
   </div>
 </div>
