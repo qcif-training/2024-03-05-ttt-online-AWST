@@ -57,7 +57,7 @@ locations:
 -->
 
 <p>
-<a href="{{ www.carpentries.org }}">The Carpentries</a> is a community of practice centered around teaching foundational 
+<a href="{{ site.carpentries_site }}">The Carpentries</a> is a community of practice centered around teaching foundational 
   coding and data science skills to researchers worldwide. This Instructor Training 
   event is designed to prepare trainees to certify and participate as Carpentries 
   Instructors. However, much of our curriculum focuses on educational principles that 
